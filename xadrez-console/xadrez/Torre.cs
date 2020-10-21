@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using tabuleiro;
-using xadrez_console.tabuleiro;
 
 namespace xadrez
 {
