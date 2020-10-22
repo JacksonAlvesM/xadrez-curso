@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/qqVALmDmXzzb4NAHCGThF7nN5prT0EaxEimQ4ec9/j7eF9+q3dbEXEh+qWfhwTx4fqm8txLjWyOaWeYo7VCeQ==",
+  "dgSpecHash": "a5Ony8Hzvs/WabmSxH1ZtmN5CG/SxS9V0QRHM8m0leHWBYp3yVussUgtAuySHDfpQcukLxidCu3Toea8SQpUOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jackj\\Desktop\\C#\\Sistema de xadrez modulo 12\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jackj\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\jackj\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

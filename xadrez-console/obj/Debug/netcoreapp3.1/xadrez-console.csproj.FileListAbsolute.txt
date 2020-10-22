@@ -7,7 +7,10 @@ C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-cons
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csprojAssemblyReference.cache
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfoInputs.cache
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfo.cs
-C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.dll
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.pdb
 C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
+C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\jackj\Desktop\C#\Sistema de xadrez modulo 12\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CopyComplete
